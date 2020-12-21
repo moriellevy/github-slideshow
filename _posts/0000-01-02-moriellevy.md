@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text 111
+Trying this out [linking stuff](www.google.com)
+> this is a quote or something
+**this is bold**
+*this is italic* 
 Use the left arrow to go back!
